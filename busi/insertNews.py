@@ -9,4 +9,4 @@ insertNews = Blueprint('insertNews', __name__)
 def insert_news():
     db.create_all()
 
-    return "sss"
+    # 执行插入数据
