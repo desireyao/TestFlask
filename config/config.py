@@ -18,5 +18,5 @@ Config = {
 
 # 只需改变此处 配置当前的环境
 CurConfig = {
-    "CONFIG": Config['testing']
+    "CONFIG": Config['procuction']
 }
